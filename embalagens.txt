@@ -1,4 +1,1 @@
 
-1 - Forminhas      Preco: 100un -> R$1
-2 - Caixa de Ovos  Preco: 10un  -> R$40
-3 - Colher         Preco: 10un  -> R$10
