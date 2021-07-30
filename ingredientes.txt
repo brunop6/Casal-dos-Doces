@@ -1,0 +1,25 @@
+
+1 - Leite Condensado       Preco: 1un    -> R$5.69
+2 - Chocolate ao Leite     Preco: 1000g  -> R$38.99
+3 - Suco de Maracuja       Preco: 600ml  -> R$6.85
+4 - Chocolate Meio Amargo  Preco: 500g   -> R$31.99
+5 - Chocolate em po        Preco: 200g   -> R$12.0
+6 - Negresco               Preco: 1pct   -> R$2.5
+7 - Pao de Hamburger       Preco: 5un    -> R$6
+8 - Coxao Mole             Preco: 1500g  -> R$48.71
+9 - Alho                   Preco: 1000g  -> R$21.9
+10 - Pacoca                Preco: 1300g  -> R$10.7
+11 - Negresco              Preco: 1un    -> R$1.89
+12 - Creme de Leite        Preco: 1un    -> R$3.29
+13 - Ovo                   Preco: 12un   -> R$6.68
+14 - Acucar                Preco: 1000g  -> R$2.36
+15 - Leite                 Preco: 1000ml -> R$3.89
+16 - Oleo                  Preco: 900ml  -> R$3.99
+17 - Fermento em po        Preco: 100g   -> R$2.49
+18 - Trigo                 Preco: 1000g  -> R$3.8
+19 - Farinha Milho         Preco: 500g   -> R$2.99
+20 - Margarina             Preco: 500g   -> R$5.69
+21 - Limao                 Preco: 3un    -> R$2.32
+22 - Amendoim              Preco: 500g   -> R$7
+23 - Granulado             Preco: 500g   -> R$8.36
+24 - Coco ralado           Preco: 100g   -> R$3.69

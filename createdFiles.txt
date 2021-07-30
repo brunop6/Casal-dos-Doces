@@ -1,0 +1,16 @@
+
+1 - BOLO DE CENOURA......................:  Receitas\Bolos\BoloCenoura.docx
+2 - BOLO DE CENOURA (COBERTURA CHOC.)....:  Receitas\Bolos\BoloCenouraChoc.docx
+3 - BOLO CENOURA VULCAO (COBERTURA BRIG.):  Receitas\Bolos\BoloCenouraVulcao.docx
+4 - BRIGADEIRO DE MARACUJA...............:  Receitas\Brigadeiros\BrigMaracuja.docx
+5 - BRIGADEIRO DE OVOMALTINE.............:  Receitas\Brigadeiros\BrigOvomaltine.docx
+6 - BROWNIE DE MORANGO...................:  Receitas\Brownies\BrownieMorango.docx
+7 - BROWNIE DE TRADICIONAL...............:  Receitas\Brownies\BrownieTradicional.docx
+8 - DONUTS...............................:  Receitas\Donuts.docx
+9 - PUDIM................................:  Receitas\Pudins\Pudim.docx
+10 - PUDIM PEQUENO.......................:  Receitas\Pudins\PudimPequeno.docx
+11 - BOLO DE PACOCA......................:  Receitas\Bolos\BoloPacoca.txt
+12 - PACOCA..............................:  Receitas\Pacoca.txt
+13 - BRIGADEIRO TRADICIONAL..............:  Receitas\Brigadeiros\BrigTradicional.doc
+14 - BEIJINHO............................:  Receitas\Brigadeiros\Beijinho.doc
+15 - SORVETE DE PACOCA...................:  Receitas\SorvetePacoca.txt
