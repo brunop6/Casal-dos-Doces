@@ -611,7 +611,7 @@ repeat
 				end
 				resp = tonumber(resp)
 			until(resp == 1 or resp == 2)
-		until(resp == 1)
+		until(resp == 1 or resp == 2)
 		if(resp == 1) then
 			cdc.cbc(cbcLen)
 			print("Extensoes recomendadas: \n")
@@ -619,8 +619,12 @@ repeat
 			print("2 - txt")
 			io.write("Nome do arquivo (c/ extensao): ")
 			arqName = tostring(io.read())
+
+			if(os.execute('cd Receitas') == nil) then
+				os.execute('mkdir Receitas')
+			end
 			
-			arq = io.open("Receitas\\"..arqName, "w")
+			arq = io.open("Receitas\\"..arqName, "w+")
 			
 			arq:write(text)
 			arq:close()
@@ -629,10 +633,13 @@ repeat
 			
 			cdc.cbc(cbcLen)		
 			print("Arquivo criado com sucesso na pasta \"Receitas\"!")
+			
+			io.read('*l')
 		else
-			print("Operacao finalizada!")
+			print("\nOperacao finalizada!")
+			cdc.sleep(2)
 		end
-		io.read('*l')
+		
     
 	--VALIDAÇÃO DA ENTRADA DO MENU INICIAL
     elseif(opt ~= "VERSION" and opt~= 1 and opt ~= 2 and opt ~= 0)then
